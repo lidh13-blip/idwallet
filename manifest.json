@@ -1,0 +1,28 @@
+{
+  "name": "ID 지갑",
+  "short_name": "ID 지갑",
+  "description": "당신의 비밀번호, 당신의 폰 안에만. 서버 연동 없음 · 광고 없음 · AES-256 암호화",
+  "start_url": "/idwallet/",
+  "scope": "/idwallet/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0A0A0F",
+  "theme_color": "#1A3A8F",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["utilities", "productivity"],
+  "screenshots": []
+}
